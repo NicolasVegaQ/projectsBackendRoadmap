@@ -1,0 +1,3 @@
+[submodule "task-tracker-python"]
+	path = task-tracker-python
+	url = https://github.com/NicolasVegaQ/task-tracker-python.git
